@@ -373,7 +373,9 @@ Implementations that are reading/processing this configuration file MUST NOT gen
 
 ```json
 "annotations": {
-    "com.example.gpu-cores": "2"
+    "com.example.project.git.url": "https://example.com/project.git"
+    "com.example.project.git.commit": "45a939b2999782a3f005621a8d0f29aa387e1d6b"
+    "com.example.package.openssl": "1.0.2j"
 }
 ```
 
